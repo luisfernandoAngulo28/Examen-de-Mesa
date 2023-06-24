@@ -1,0 +1,52 @@
+D:\EDI\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\cApp\bin\Debug\cApp.dll
+D:\EDI\cApp\bin\Debug\cApp.pdb
+D:\EDI\cApp\obj\Debug\cApp.dll
+D:\EDI\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED v1\cApp\bin\Debug\cApp.dll
+D:\EDI\ED v1\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED v1\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED v1\cApp\obj\Debug\cApp.dll
+D:\EDI\ED v1\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED v2\cApp\bin\Debug\cApp.dll
+D:\EDI\ED v2\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED v2\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED v2\cApp\obj\Debug\cApp.dll
+D:\EDI\ED v2\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED v3\cApp\bin\Debug\cApp.dll
+D:\EDI\ED v3\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED v3\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED v3\cApp\obj\Debug\cApp.dll
+D:\EDI\ED v3\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED v3 practico - solucion\cApp\bin\Debug\cApp.dll
+D:\EDI\ED v3 practico - solucion\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED v3 practico - solucion\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED v3 practico - solucion\cApp\obj\Debug\cApp.dll
+D:\EDI\ED v3 practico - solucion\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED v3 rectangulo\cApp\bin\Debug\cApp.dll
+D:\EDI\ED v3 rectangulo\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED v3 rectangulo\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED v3 rectangulo\cApp\obj\Debug\cApp.dll
+D:\EDI\ED v3 rectangulo\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED ex1 rectangulo\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED ex1 rectangulo\cApp\bin\Debug\cApp.dll
+D:\EDI\ED ex1 rectangulo\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED ex1 rectangulo\cApp\obj\Debug\cApp.dll
+D:\EDI\ED ex1 rectangulo\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED ex1 rectangulo - solucion\cApp\bin\Debug\cApp.dll
+D:\EDI\ED ex1 rectangulo - solucion\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED ex1 rectangulo - solucion\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED ex1 rectangulo - solucion\cApp\obj\Debug\cApp.dll
+D:\EDI\ED ex1 rectangulo - solucion\cApp\obj\Debug\cApp.pdb
+D:\EDI\Examenes\ED ex1 rectangulo - solucion\cApp\bin\Debug\cApp.dll
+D:\EDI\Examenes\ED ex1 rectangulo - solucion\cApp\bin\Debug\cApp.pdb
+D:\EDI\Examenes\ED ex1 rectangulo - solucion\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+D:\EDI\Examenes\ED ex1 rectangulo - solucion\cApp\obj\Debug\cApp.dll
+D:\EDI\Examenes\ED ex1 rectangulo - solucion\cApp\obj\Debug\cApp.pdb
+D:\EDI\Examenes\ED ex1 rectangulo - solucion\cApp\obj\Debug\cApp.csproj.AssemblyReference.cache
+D:\EDI\Examenes\ED ex1 5 2022 rectangulo\cApp\bin\Debug\cApp.dll
+D:\EDI\Examenes\ED ex1 5 2022 rectangulo\cApp\bin\Debug\cApp.pdb
+D:\EDI\Examenes\ED ex1 5 2022 rectangulo\cApp\obj\Debug\cApp.csproj.AssemblyReference.cache
+D:\EDI\Examenes\ED ex1 5 2022 rectangulo\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+D:\EDI\Examenes\ED ex1 5 2022 rectangulo\cApp\obj\Debug\cApp.dll
+D:\EDI\Examenes\ED ex1 5 2022 rectangulo\cApp\obj\Debug\cApp.pdb
